@@ -1,0 +1,26 @@
+.bottom-container{
+    margin-top: 50px;
+    background: rgb(3,4,94);
+    background: linear-gradient(243deg, rgba(3,4,94,1) 0%, rgba(0,150,199,1) 50%, rgba(2,45,123,1) 100%);
+    height: 72px;
+    text-align: center;
+    padding: 40px;
+}
+
+.copyright{
+    color: white;
+    font-size: 15px;
+    padding-top: 30px;
+}
+
+.footer-link{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.footer-link:hover{
+    color: #90E0EF;
+}
